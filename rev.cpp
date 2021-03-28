@@ -1,5 +1,4 @@
 #include<iostream>
-using namespace std;
 void rev(int n){
 	if(n==0){
 		return;
